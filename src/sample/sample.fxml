@@ -22,6 +22,7 @@
             <String fx:value="Рита" />
             <String fx:value="Кристина" />
             <String fx:value="Лена" />
+            <String fx:value="Оля" />
          </FXCollections>
       </items>
       </ChoiceBox>
